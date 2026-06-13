@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 class Device {
-    String name;
-    boolean status;
+    public String name;
+    public boolean status;
 
     Device(String name) {
         this.name = name;
